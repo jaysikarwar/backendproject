@@ -1,7 +1,4 @@
-# AGENTS.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
+# Readme.md
 ## Project Overview
 
 A zero-downtime deployment demonstration project showcasing blue-green and canary deployment strategies using Express.js backends with Nginx load balancing.
